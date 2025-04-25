@@ -51,7 +51,7 @@ Create a .env file and add:
         GOOGLE_CLIENT_ID=your_google_client_id
         FRONTEND_URL=http://localhost:3000
 
-
+In index.js add your GoogleOAuthProvider clientId
 
 
 
